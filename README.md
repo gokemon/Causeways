@@ -1,5 +1,24 @@
 # Causeways
 
+connections that flow from front and back
+
+a reverse engineered Medium.com clone
+
+https://app.swaggerhub.com/apis/gokemon/causeways/1.0
+
+This will have a front-end in both Angular & React, and the backend provided by Node to begin with, maybe a sprint boot version later.
+* Authentication with JWT
+* Profiles with images
+* Write/edit/read articles
+* Comments on articles
+* Ability to "favorite" articles
+* Ability to follow other users & have their articles show up in your feed
+
+CRUD operations, authentication, routing, pagination, and more features as I remember or find.
+
+
+First thing I had to do was update from ng7 to ng 15, which also required that I update my node. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
